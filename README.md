@@ -1,3 +1,9 @@
+# OH HAI!
+
+## Training a ML network on data that the model you are using is based on is a bad idea
+
+### Archiving this to make more better networks 
+
 # Truck Vs Rig Network
 
 This network will classify a image of a truck or semi as a truck or a semi. 
